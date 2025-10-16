@@ -12,7 +12,8 @@ O **Compra Fácil via Celular** foi criado com o objetivo de facilitar o process
 Este projeto faz parte da minha jornada de aprendizado como iniciante no <a href="https://rodolfomori.com.br/devclub">**DevClub**</a>, onde estou dando meus primeiros passos no mundo da programação. 🚀  
 
 ---
-<img src= "D:\Users\Thiago\Documents\DevClub\CSS Desafio2-cell phone girl\assets\1.png" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d1147c5-cad0-4865-b520-5af5e5b299f0" />
+
 
 ## 🛠️ Tecnologias Utilizadas
 
